@@ -79,7 +79,7 @@ In this project we implement some of the functional we learn through the module 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ichsansandy.github.io/dishdiscovery-capstone-microverse/)
+- [Live Demo Link](https://abdozayan12.github.io/Dish-Discovery/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
